@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# 🍽️ **Restaurant Website **
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **modern**, **fully responsive** restaurant website built with **React** and **Material-UI (MUI)**.  
+Explore menus, read customer reviews, browse special dishes, and place orders online with ease! 🎉
 
-## Available Scripts
+🔗 **Live Demo:** [https://restaurant-website-orcin-psi.vercel.app/](https://restaurant-website-orcin-psi.vercel.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📖 **Project Overview**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This website showcases the restaurant's finest dishes with an intuitive UI/UX that offers:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Easy navigation through categories & menu items  
+- Interactive search functionality 🔍  
+- Customer testimonials displayed in a sleek slider  
+- User-friendly order form with customization options  
+- Visually engaging sections with smooth animations and responsive design across all devices
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ **Features**
 
-### `npm run build`
+- 🚀 **Responsive Design:** Optimized for mobile, tablet & desktop  
+- 🏠 **Home Section:** Beautiful hero area with mouth-watering food images  
+- 📋 **Menu Section:** Browse, filter, and add items to your cart seamlessly  
+- 🍽️ **Special Dishes:** Highlight standout dishes with pricing & descriptions  
+- 📝 **Order Form:** Simple and effective form to place orders directly  
+- 💬 **Customer Reviews:** Carousel slider to showcase happy customer feedback  
+- 🔍 **Interactive Search:** Quick filtering of menu items in real-time  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ **Technologies Used**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Technology        | Purpose                          |
+|-------------------|----------------------------------|
+| ⚛️ React             | Frontend JavaScript library  |
+| 🎨 Material-UI (MUI) | UI Components & Styling      |
+| 🔣 Font Awesome      | Icons                        |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 **Getting Started**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Node.js** (v14 or above) installed on your machine
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Installation Steps
 
-## Learn More
+```bash
+# Clone the repository
+git clone https://github.com/your-username/restaurant-website.git
+cd restaurant-website
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Install dependencies
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Run development server
+npm start
